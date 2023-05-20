@@ -13,7 +13,7 @@ $.ajax({
   cache: false
 })
   .done(function( html ) {
-    $( "resultsaaad" ).append( html );
+    $( "?result" ).append( html );
   }
 </script>
 
