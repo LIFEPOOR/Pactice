@@ -1,0 +1,21 @@
+<html>
+<body">
+
+<h2>JavaScript</h2>
+
+<h3>The window.location object</h3>
+window.location.protocol
+
+
+<script>
+$.ajax({
+  url: "sad.html",
+  cache: false
+})
+  .done(function( html ) {
+    $( "#results" ).append( html );
+  }
+</script>
+
+</body>
+</html>
